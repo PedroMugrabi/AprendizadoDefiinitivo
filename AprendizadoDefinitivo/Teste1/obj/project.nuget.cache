@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+DabRGLC0M5fChRQ43+WRG1hq8l+HbWaAH6Yj91VZ60ZHsMVC6kZexzVwie0rxaIbmPlyQ27RIiYYrbOFz2EcQ==",
+  "dgSpecHash": "hpoz1xVA7B72qlnELUTSkgJFoh4rLvQquurM/eMXPjayYovEoF4AaCok8AsWBl8FBF3AoK8qlmAYls1Ekf+U+g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pedro\\source\\repos\\AprendizadoDefinitivo\\Teste1\\Teste1.csproj",
+  "projectFilePath": "C:\\Users\\pedro\\source\\repos\\Testepasta\\AprendizadoDefinitivo\\Teste1\\Teste1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pedro\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Users\\pedro\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",

@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pedro\\source\\repos\\AprendizadoDefinitivo\\Teste0\\Teste0.csproj",
+      "projectUniqueName": "C:\\Users\\pedro\\source\\repos\\Testepasta\\AprendizadoDefinitivo\\Teste0\\Teste0.csproj",
       "projectName": "Teste0",
-      "projectPath": "C:\\Users\\pedro\\source\\repos\\AprendizadoDefinitivo\\Teste0\\Teste0.csproj",
+      "projectPath": "C:\\Users\\pedro\\source\\repos\\Testepasta\\AprendizadoDefinitivo\\Teste0\\Teste0.csproj",
       "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pedro\\source\\repos\\AprendizadoDefinitivo\\Teste0\\obj\\",
+      "outputPath": "C:\\Users\\pedro\\source\\repos\\Testepasta\\AprendizadoDefinitivo\\Teste0\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
