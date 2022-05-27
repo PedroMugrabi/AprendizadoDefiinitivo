@@ -1,0 +1,10 @@
+C:\Users\pedro\source\repos\AprendizadoDefinitivo\Teste0\bin\Debug\netcoreapp2.1\Teste0.deps.json
+C:\Users\pedro\source\repos\AprendizadoDefinitivo\Teste0\bin\Debug\netcoreapp2.1\Teste0.dll
+C:\Users\pedro\source\repos\AprendizadoDefinitivo\Teste0\bin\Debug\netcoreapp2.1\Teste0.pdb
+C:\Users\pedro\source\repos\AprendizadoDefinitivo\Teste0\obj\Debug\netcoreapp2.1\Teste0.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\AprendizadoDefinitivo\Teste0\obj\Debug\netcoreapp2.1\Teste0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\AprendizadoDefinitivo\Teste0\obj\Debug\netcoreapp2.1\Teste0.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\AprendizadoDefinitivo\Teste0\obj\Debug\netcoreapp2.1\Teste0.AssemblyInfo.cs
+C:\Users\pedro\source\repos\AprendizadoDefinitivo\Teste0\obj\Debug\netcoreapp2.1\Teste0.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\AprendizadoDefinitivo\Teste0\obj\Debug\netcoreapp2.1\Teste0.dll
+C:\Users\pedro\source\repos\AprendizadoDefinitivo\Teste0\obj\Debug\netcoreapp2.1\Teste0.pdb
